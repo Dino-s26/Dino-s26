@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dino-s26
-- 👀 I’m interested in IT with specialty in Network, Server Infrastructure and Basic Automation with Python
-- 🌱 I’m currently learning Python, Automation, Data Analysis and Data Visualization
+- 👀 I’m interested in IT with specialty in Network, Server Infrastructure and Automation
+- 🌱 I’m currently learning Python, Automation (Terraform, Ansible, etc), Data Analysis and Data Visualization
 - 📫 How to reach me Email : Alldino.syaman@gmail.com or through my social media IG / Twitter : @dino_s26
 
 <!---
